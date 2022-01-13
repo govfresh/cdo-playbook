@@ -1,0 +1,61 @@
+# General
+title: Chief data officers playbook
+description: Advancing the federal data strategy
+#baseurl: ""
+#url: ""
+
+# Build settings
+theme:
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Date/time
+date: "%B %-d, %Y"
+timezone: America/Los_Angeles
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: ""
+    values:
+      folder: ""
+      img-path: ""
+      parent: ""
+      layout: "cards"
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      folder: "Posts"
+      img-path: "posts"
+      parent: "posts"
+      layout: "posts"
+      short: "true"
+  - scope:
+      path: ""
+      type: "topics"
+    values:
+      layout: "topic"
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: :title
+  posts:
+    output: true
+    permalink: /radar/:title
+
+# Pagination
+# paginate: 12
+# paginate_path: "/radar/:num"
+
+# Exclude
+exclude:
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,14 @@
+docs_list_title: nav-footer-1
+docs:
+
+- title: Intro
+  url: /intro/
+
+- title: About
+  url: /about/
+
+- title: Plays
+  url: /plays/
+
+- title: Appendix
+  url: /appendix/

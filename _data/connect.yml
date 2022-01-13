@@ -1,0 +1,51 @@
+# Icon sizes
+
+sm: "fa-lg"
+md: "fa-2x"
+lg: "fa-3x"
+
+# Social media icons
+
+website: &website "fas fa-window-maximize"
+email: &email "fas fa-at"
+subscribe: &subscribe "fa-solid fa-envelope-open-text"
+patreon: &patreon "fab fa-patreon"
+twitter: &twitter "fab fa-twitter"
+linkedin: &linkedin "fab fa-linkedin"
+facebook: &facebook "fab fa-facebook"
+github: &github "fab fa-github"
+medium: &medium "fab fa-medium"
+youtube: &youtube "fab fa-youtube"
+vimeo: &vimeo "fab fa-vimeo"
+instagram: &instagram "fab fa-instagram"
+flickr: &flickr "fab fa-flickr"
+figma: &figma "fab fa-figma"
+tumblr: &tumblr "fab fa-tumblr"
+library: &library "fas fa-book-reader"
+goodreads: &goodreads "fab fa-goodreads"
+amazon: &amazon "fab fa-amazon"
+apple: &apple "fab fa-apple"
+spotify: &spotify "fab fa-spotify"
+rss: &rss "fas fa-rss"
+discord: &discord "fab fa-discord"
+
+# Site social media links
+
+docs_list_title: connect
+docs:
+
+  - name: Website
+    url: https://govfresh.com
+    icon: *website
+
+  - name: Email
+    url: mailto:contact@govfresh.com
+    icon: *email
+
+  - name: GitHub
+    url: https://github.com/govfresh/cdo-playbook
+    icon: *github
+
+  - name: RSS
+    url: https://govfresh.com/feed.xml
+    icon: *rss

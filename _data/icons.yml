@@ -1,0 +1,38 @@
+docs_list_title: icons
+docs:
+
+- title: "Introduction"
+  description: "The federal Chief Data Officer (CDO) position is a pivotal and transformational role that can significantly benefit the collection, organization, analysis and use of data in the agency as well as improve its value to society."
+  icon: fas fa-power-off
+  url: /intro
+
+- title: "About"
+  description: "The CDO Playbook is an iterative document that explores and defines the evolution of the federal CDO role."
+  icon: fas fa-info-circle
+  url: /about
+
+- title: "Play 1"
+  description: "Cultivate strong relationships to partner on solving mission problems with data."
+  icon: fas fa-play
+  url: /play-1
+
+- title: "Play 2"
+  description: "Promote data sharing and break organizational silos."
+  icon: fas fa-play
+  url: /play-2
+
+- title: "Play 3"
+  description: "Build a data-driven culture by taking the lead to improve data literacy and acumen within your agency."
+  icon: fas fa-play
+  url: /play-3
+
+- title: "Play 4"
+  description: "Drive transformation through a mission focused data and analytics strategy that can influence the enterprise-wide business strategy and answer key agency questions."
+  icon: fas fa-play
+  url: /play-4
+
+- title: "Appendix"
+  description: "Federal policies and guidelines."
+  icon: fas fa-list
+  url: /appendix
+
