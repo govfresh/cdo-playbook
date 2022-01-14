@@ -34,10 +34,6 @@ discord: &discord "fab fa-discord"
 docs_list_title: connect
 docs:
 
-  - name: Website
-    url: https://govfresh.com
-    icon: *website
-
   - name: Email
     url: mailto:contact@govfresh.com
     icon: *email
@@ -45,7 +41,3 @@ docs:
   - name: GitHub
     url: https://github.com/govfresh/cdo-playbook
     icon: *github
-
-  - name: RSS
-    url: https://govfresh.com/feed.xml
-    icon: *rss

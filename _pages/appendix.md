@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Appendix A
-description: Drive transformation through a mission focused data and analytics strategy that can influence the enterprise-wide business strategy and answer key agency questions.
+description: Federal policies and guidelines.
 permalink: /appendix/
----
-
-Federal Policies and Guidelines  
+---  
 
 Below is a list of relevant federal laws and policies applicable to the CDO role.  Evidence Act 
 M-19-18 
@@ -56,5 +54,7 @@ Foundations for Evidence-Based Policymaking
 
 * President’s Management Agenda, Cross-Agency Priority Goals Leveraging Data as a Strategic Asset 
 
-If you have questions or would like more information about the case studies, contact cdocstaff@gsa.gov. www.cdo.gov | cdocstaff@gsa.gov.  
+If you have questions or would like more information about the case studies, contact:
 
+* cdocstaff@gsa.gov
+* www.cdo.gov

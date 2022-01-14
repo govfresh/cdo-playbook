@@ -46,6 +46,28 @@ layout: default
         {% endfor %}
     </div>
 </div>
+{% elsif page.title == "Plays" %}
+<div class="col-sm-12">
+    <div class="card-deck clean">
+        {% for item in site.data.icons.docs %}
+        {% if item.icon contains "play" %}
+        <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 d-flex align-items-stretch">
+            <div class="card">
+                <div class="card-body">
+                    <div class="icon">
+                        <i class="{{ item.icon }} {{ site.data.connect.lg }}"></i>
+                    </div>
+                    <h3>
+                        <a href="{{ site.baseurl }}{{ item.url }}" class="stretched-link">{{ item.title }}</a>
+                    </h3>
+                    <p class="description">{{ item.description }}</p>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>
 {% else %}
 <!-- Features / Evergreen -->
 <div class="container">

@@ -1,7 +1,7 @@
 ---
 layout: icons
 title: Plays
-description: .
+description: 
 permalink: /plays/
 ---
 
