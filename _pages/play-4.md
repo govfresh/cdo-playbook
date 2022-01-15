@@ -13,7 +13,7 @@ Focus on mission value creation and Key Performance Indicators (KPIs) to develop
 
 4.2 Identify any shared goals, consistent themes, and parallel findings from the stakeholder interviews.  
 
-4.3 Understand your agency’s budget process including the IT investment management processes to ensure that appropriate resources are planned for in future budgets as required under the Federal Data Strategy 2021 Action Plan - Action 3. Having this knowledge will help provide an agency-wide lens when incorporating budget considerations into your data and analytics strategy.  
+4.3 Understand your agency’s budget process including the IT investment management processes to ensure that appropriate resources are planned for in future budgets as required under the Federal Data Strategy [2021 Action Plan - Action 3](https://strategy.data.gov/2021/action-plan/agency-actions/). Having this knowledge will help provide an agency-wide lens when incorporating budget considerations into your data and analytics strategy.  
 
 4.4 Connect your business problems to the key agency questions that data can help answer to prioritize transformational opportunities.
 
@@ -119,13 +119,13 @@ Focus on mission value creation and Key Performance Indicators (KPIs) to develop
 
 #### Key activities
 
-#### Agency example 
+* Create working relationships between key agency employees for information sharing and strategy building purposes.
 
-* Create working relationships between key agency employees for information sharing and strategy building purposes. 
+* Build a holistic enterprise data and analytics strategy that brings these groups together to connect priorities across agency offices.
 
-* The USDA CDO identified a key business problem; employees had become accustomed to slow processes due to limited or no data access. Understanding this reality allowed them to dig deeper into the root of the problem through stakeholder interviews and design sprints where they identified the data that existed and the data that was needed to improve efficiency. This ultimately led to the creation of new infrastructure, the USDA’s Enterprise Data Analytics Platform and Toolset (EDAPT). 
+#### Agency example  
 
-* Build a holistic enterprise data and analytics strategy that brings these groups together to connect priorities across agency offices.  
+* The USDA CDO identified a key business problem; employees had become accustomed to slow processes due to limited or no data access. Understanding this reality allowed them to dig deeper into the root of the problem through stakeholder interviews and design sprints where they identified the data that existed and the data that was needed to improve efficiency. This ultimately led to the creation of new infrastructure, the USDA’s Enterprise Data Analytics Platform and Toolset (EDAPT).   
 
 #### Agency example  
 
@@ -195,7 +195,7 @@ Focus on mission value creation and Key Performance Indicators (KPIs) to develop
 
 ### 4.16 Identify and prioritize the projects within your agency that can accelerate progress while building critical capabilities.  
 
-**Key activity**
+#### Key activity
 
 * Prioritize projects which demonstrate near term value to gain trust from your key stakeholders and buy-in for future projects with longer implementation timelines and more challenging projects. 
 
@@ -277,10 +277,10 @@ When a need or problem is clearly defined, ML and AI has the potential to recomm
 
 ## Play 4 resources 
 
-* Department of Veteran Affairs Data Strategy 
+* [Department of Veteran Affairs Data Strategy](https://www.va.gov/oei/docs/VA_Data_Strategy.pdf) 
 
-* U.S. Food and Drug Administration Data Modernization Action Plan 
+* [U.S. Food and Drug Administration Data Modernization Action Plan](https://www.fda.gov/media/143627/download)
 
-* Department of Defense Data Strategy 
+* [Department of Defense Data Strategy](https://media.defense.gov/2020/Oct/08/2002514180/-1/-1/0/DOD-DATA-STRATEGY.PDF)
 
-* Department of Commerce Data Strategy 
+* [Department of Commerce Data Strategy](https://www.commerce.gov/sites/default/files/2021-08/US-Dept-of-Commerce-Data-Strategy.pdf)

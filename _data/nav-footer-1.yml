@@ -1,17 +1,6 @@
 docs_list_title: nav-footer-1
 docs:
 
-- title: Intro
-  url: /intro/
+- title: A GovFresh Labs project <i class="fa-solid fa-flask"></i>
+  url: https://govfresh.com/labs
 
-- title: About
-  url: /about/
-
-- title: Plays
-  url: /plays/
-
-- title: Appendix
-  url: /appendix/
-
-- title: Download
-  url: /download/

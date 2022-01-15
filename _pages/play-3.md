@@ -11,7 +11,7 @@ Invest in the individuals within your workforce to create a data-driven culture 
 
 3.1	Conduct a landscape analysis to document existing training requirements and identify available training opportunities within your agency and across the federal government that your agency may be able to utilize. Consult the Federal Data Strategy’s Curated Data Skills Catalog in this process. Use existing training resources as a cost-effective approach to training implementation and to leverage potential shared service opportunities across the federal government. 
 
-3.2 Build an education and awareness campaign that focuses on communicating the importance and value of data throughout the organization while promoting data literacy. This OCM activity demonstrates your ability to be a change agent, influencing your agency data culture.   
+3.2 Build an education and awareness campaign that focuses on communicating the importance and value of data throughout the organization while promoting data literacy. This OCM activity demonstrates your ability to be a change agent, influencing your agency data culture.
 
 3.3 Review or update your workforce skills assessment to understand the coverage, quality, methods, and effectiveness of current staff data literacy and data skills. This step identifies where existing gaps in data literacy and specific data skills are and where additional training might be needed.  
 
@@ -33,7 +33,7 @@ Invest in the individuals within your workforce to create a data-driven culture 
 
 3.12 Assess and measure the mission value gained from data literacy efforts. 
 
-### 3.1 Conduct a landscape analysis to document existing training requirements and identify available training opportunities within your agency and across the federal government that your agency may be able to utilize. Consult the Federal Data Strategy’s Curated Data Skills Catalog in this process. Use existing training resources as a cost-effective approach to training implementation and to leverage potential shared service opportunities across the federal government.  
+### 3.1 Conduct a landscape analysis to document existing training requirements and identify available training opportunities within your agency and across the federal government that your agency may be able to utilize. Consult the Federal Data Strategy’s [Curated Data Skills Catalog](https://resources.data.gov/assets/documents/fds-data-skills-catalog.pdf) in this process. Use existing training resources as a cost-effective approach to training implementation and to leverage potential shared service opportunities across the federal government.  
 
 #### Key activities
 
@@ -43,7 +43,7 @@ Invest in the individuals within your workforce to create a data-driven culture 
 
 * Ensure there is alignment between the technology, evidence, and data sides as there may be similar requirements and goals where opportunities for collaborative synergies exist.  
 
-### 3.2 Build an education and awareness campaign that focuses on communicating the importance and value of data throughout the organization while promoting data literacy. This OCM activity demonstrates your ability to be a change agent, influencing your agency data culture.   
+### 3.2 Build an education and awareness campaign that focuses on communicating the importance and value of data throughout the organization while promoting data literacy. This OCM activity demonstrates your ability to be a change agent, influencing your agency data culture.
 
 #### Key activities
 
@@ -65,7 +65,7 @@ The CDO at the Federal Energy Regulatory Commission (FERC) facilitated meetings 
 
 * Carefully decide how best to address the gaps in your agency (i.e., training or hiring or both) by aligning to the needs of your staff and to your agency mission needs and priorities. 
 
-* Evaluate the readiness of agency offices to integrate data science and data analytics into their missions, especially those offices that may not have had that experience previously.  
+* Evaluate the readiness of agency offices to integrate data science and data analytics into their missions, especially those offices that may not have had that experience previously.
 
 #### Agency example 
 
@@ -89,7 +89,7 @@ The CDO at the Department of Housing and Urban Development (HUD) assessed existi
 
 * Use the roadmap to provide your organization with a linear timeline of events which connects to the main implementation activities in your training plan. 
 
-* Document exactly when each major milestone will take place.   
+* Document exactly when each major milestone will take place.
 
 ### 3.6 Determine the resources needed to implement your training and submit a budget request for those needs (e.g., training instructors or training software).  
 
@@ -133,7 +133,7 @@ The CDO at the Department of Housing and Urban Development (HUD) assessed existi
 
 * Demonstrate your ability to elicit change by integrating your data vision into individual program plans.   
 
-### 3.11 Develop a hiring plan for future roles needed to fill skill gaps for your organization or carry out CDO mandates and Office of Management & Budget (OMB) requirements.   
+### 3.11 Develop a hiring plan for future roles needed to fill skill gaps for your organization or carry out CDO mandates and Office of Management & Budget (OMB) requirements. 
 
 #### Key activities
 
@@ -147,7 +147,7 @@ The CDO at the Department of Housing and Urban Development (HUD) assessed existi
 
 * Incorporate the results of your benchmarking assessments as you develop your hiring plan. Consider all funding mechanisms both inside and outside of your agency including the requirements for leveraging a Working Capital Fund (WCF) to plan the budget for these staffing resources.  
 
-### 3.12 Assess and measure the mission value gained from data literacy efforts.   
+### 3.12 Assess and measure the mission value gained from data literacy efforts.
 
 #### Key activities
 
@@ -155,7 +155,7 @@ The CDO at the Department of Housing and Urban Development (HUD) assessed existi
 
 * Work with your HR Office to develop assessments to monitor the results of your data literacy initiative within the workforce. 
 
-* Create metrics to measure progress of data literacy training programs and connect those metrics to your agency mission objectives and larger strategic goals.  
+* Create metrics to measure progress of data literacy training programs and connect those metrics to your agency mission objectives and larger strategic goals.
 
 ## Play 3 resources 
 

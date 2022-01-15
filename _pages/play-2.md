@@ -189,8 +189,9 @@ Effective data management enables data sharing and access across the enterprise 
 
 * Implement and maintain data management investments, a key role of the CDO. 
 
-* Use your budgeting and data resource management process to show how you are prioritizing resources to meet agency needs. 
-Play 2 lessons learned 
+* Use your budgeting and data resource management process to show how you are prioritizing resources to meet agency needs.
+
+## Play 2 lessons learned 
 
 * Leverage a data stewardship framework to create a stronger partnership with data stewards and increase their participation in data initiatives for the agency. 
 
@@ -198,16 +199,24 @@ Play 2 lessons learned
 
 ## Play 2 resources 
 
-* Federal Data Strategy Data Ethics Framework 
+* Federal Data Strategy [Data Ethics Framework](https://resources.data.gov/assets/documents/fds-data-ethics-framework.pdf)
 
-* GSA guide to Inventory.data.gov 
+* [GSA guide to Inventory.data.gov](https://resources.data.gov/resources/inventory-data-gov-guide/)
 
-* International Data Standards » ISO » United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT) » W3C The World Wide Web Consortium » IETF The Internet Engineering Task Force 
+* International Data Standards
+  * [ISO](https://www.iso.org/standards-catalogue/browse-by-ics.html)
+  * [United Nations Centre for Trade Facilitation and Electronic Business (UN/CEFACT)](https://unece.org/trade/uncefact/introduction)
+  * [W3C The World Wide Web Consortium](https://www.w3.org/)
+  * [IETF The Internet Engineering Task Force](https://www.ietf.org/)
 
-* US National Data Standards » American National Standards Institute (ANSI » International Committee for Information Technology Standards (INCITS) 
+* US National Data Standards
+  * [American National Standards Institute (ANSI)](https://www.ansi.org/)
+  * [International Committee for Information Technology Standards (INCITS)](https://www.incits.org/)
 
-* US Federal Government Data Standards » The Federal Geographic Data Committee (FGDC) » The National Information Exchange Model (NIEM) 
+* US Federal Government Data Standards
+  * [The Federal Geographic Data Committee (FGDC)](https://www.fgdc.gov/standards)
+  * [The National Information Exchange Model (NIEM)](https://www.niem.gov/)
 
-* Additional Data Standards from resources.data.gov 
+* [Additional Data Standards](https://resources.data.gov/categories/data-standards/) from resources.data.gov 
 
-* Sample Technology Business Management (TMB) OCM Guide and Toolkit 
+* Sample Technology Business Management (TMB) [OCM Guide and Toolkit](https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.gov%2Flogin.action%3Fos_destination%3D%252Fdownload%252Fattachments%252F2019473872%252FFINAL%25252520OCM%25252520Guide%25252520%25283%2529.pdf%253Fapi%253Dv2)

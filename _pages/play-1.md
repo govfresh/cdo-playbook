@@ -103,4 +103,4 @@ Successful small-scale projects or “quick wins” build the credibility needed
 
 ## Play 1 helpful resource 
 
-* Example, TBM Training Module on Stakeholder Engagement 
+* Example, [TBM Training Module on Stakeholder Engagement](https://login.max.gov/cas/login?service=https%3A%2F%2Fcommunity.max.gov%2Flogin.action%3Fos_destination%3D%252Fdownload%252Fattachments%252F2178171106%252FStakeholder%25252520Engagement_10272020%25252520Office%25252520Hours.pdf%253Fapi%253Dv2)
